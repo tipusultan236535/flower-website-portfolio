@@ -11,9 +11,11 @@ body {
     background-color: rgba(229, 84, 115, 0.10);}
     
     .banner{
-        padding: 30px 30px 150px ;
+        padding: 40px 220px 150px ;
         display: flex;
         align-items: center;
+        justify-content: space-around;
+        background-color: rgba(229, 84, 115, 0.10);
     }
     .btn{
         border-radius: 5px;
@@ -24,8 +26,37 @@ body {
         font-weight: 700;
         padding: 15px 35px;
     }
+    .section-title{
+        color: #181818;
+        text-align: center;
+        font-size: 35px;
+        font-weight: 700;
+    }
+    .section-description{
+        color: #757575;
+        text-align: center;
+        font-size: 18px;
+
+    }
     .banner .profile-pic{
         width: 500px;
     }
+    .banner-tittle{
+        font-size: 80px;
+       font-weight: 800;
+       margin-top: 5px;
+       margin-bottom: 20px;
+     
+    }
+    .description{
+        height: 634;
+        width: 90;
+     }
+     /* main section styles*/
+
+     /*about section styles*/
+     .about{
+        padding: 130px;
+     }
 
     
