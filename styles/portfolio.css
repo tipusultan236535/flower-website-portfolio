@@ -66,11 +66,7 @@ body {
      .to-a{
         display: flex;
       text-decoration-line: underline;
-      inline-size: ;
-  
-  
-
-     }
+      inline-size: ;}
      #what-i-do-discription{
         padding: 10px 634px;
      }
@@ -85,6 +81,12 @@ body {
         font-size: 18px;
         font-weight: 400;
 line-height: 30px;
+     }
+     .pci{
+ 
+        text-align: center;
+        font-size: 35px;
+        font-weight: 700;
      }
      
        
